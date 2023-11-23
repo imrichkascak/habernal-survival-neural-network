@@ -17,19 +17,19 @@ To run this project and perform survival predictions, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/imrichkascak/habernal-survival-neural-network.git
+      git clone https://github.com/imrichkascak/habernal-survival-neural-network.git
    ```
 
 2. Install the required Python libraries. You can use pip to install dependencies:
 
   ```bash
-  brew install jupyter
+     brew install jupyter
   ```
 
 3. Open and run the Jupyter Notebook provided in the project folder:
 
    ```bash
-   jupyter notebook
+      jupyter notebook
    ```
    
 4. Navigate to the Jupyter Notebook file `src/er1602.ipynb` and execute the cells to train the neural network on the provided dataset and make predictions on new data.
